@@ -333,6 +333,15 @@ export const mats = [
     filename: "6556"
   },
   {
+    name: "Flower of the End",
+    startRange: "D200",
+    endRange: "N204",
+    rarity: "silver",
+    type: "mat",
+    availability: "JP",
+    filename: "6557"
+  },
+  {
     name: "Claw of Chaos",
     startRange: "D200",
     endRange: "N204",
@@ -430,6 +439,15 @@ export const mats = [
     type: "mat",
     availability: "ALL",
     filename: "6548"
+  },
+  {
+    name: "Flaming Oni Lantern Plant",
+    startRange: "T227",
+    endRange: "AD231",
+    rarity: "gold",
+    type: "mat",
+    availability: "ALL",
+    filename: "6558"
   },
   {
     name: "Secret Gem of Saber",
