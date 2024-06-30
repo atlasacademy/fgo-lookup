@@ -6,7 +6,7 @@ export const mats = [
     rarity: "bronze",
     type: "mat",
     availability: "ALL",
-    filename: "6503"
+    filename: "6503",
   },
   {
     name: "Evil Bone",
@@ -15,7 +15,7 @@ export const mats = [
     rarity: "bronze",
     type: "mat",
     availability: "ALL",
-    filename: "6516"
+    filename: "6516",
   },
   {
     name: "Dragon Fang",
@@ -24,7 +24,7 @@ export const mats = [
     rarity: "bronze",
     type: "mat",
     availability: "ALL",
-    filename: "6512"
+    filename: "6512",
   },
   {
     name: "Void's Dust",
@@ -33,7 +33,7 @@ export const mats = [
     rarity: "bronze",
     type: "mat",
     availability: "ALL",
-    filename: "6505"
+    filename: "6505",
   },
   {
     name: "Fool's Chain",
@@ -42,7 +42,7 @@ export const mats = [
     rarity: "bronze",
     type: "mat",
     availability: "ALL",
-    filename: "6522"
+    filename: "6522",
   },
   {
     name: "Deadly Poisonous Needle",
@@ -51,7 +51,7 @@ export const mats = [
     rarity: "bronze",
     type: "mat",
     availability: "ALL",
-    filename: "6527"
+    filename: "6527",
   },
   {
     name: "Mystic Spinal Fluid",
@@ -60,7 +60,7 @@ export const mats = [
     rarity: "bronze",
     type: "mat",
     availability: "ALL",
-    filename: "6530"
+    filename: "6530",
   },
   {
     name: "Stake of Wailing Night",
@@ -69,7 +69,7 @@ export const mats = [
     rarity: "bronze",
     type: "mat",
     availability: "ALL",
-    filename: "6533"
+    filename: "6533",
   },
   {
     name: "Mystic Gunpowder",
@@ -78,7 +78,7 @@ export const mats = [
     rarity: "bronze",
     type: "mat",
     availability: "ALL",
-    filename: "6534"
+    filename: "6534",
   },
   {
     name: "Small Bell of Absolution",
@@ -87,7 +87,7 @@ export const mats = [
     rarity: "bronze",
     type: "mat",
     availability: "ALL",
-    filename: "6549"
+    filename: "6549",
   },
   {
     name: "Twilight Ceremonial Blade",
@@ -96,7 +96,7 @@ export const mats = [
     rarity: "bronze",
     type: "mat",
     availability: "JP",
-    filename: "6551"
+    filename: "6551",
   },
   {
     name: "Unforgettable Ashes",
@@ -105,7 +105,7 @@ export const mats = [
     rarity: "bronze",
     type: "mat",
     availability: "JP",
-    filename: "6552"
+    filename: "6552",
   },
   {
     name: "Obsidian Edge",
@@ -114,7 +114,7 @@ export const mats = [
     rarity: "bronze",
     type: "mat",
     availability: "JP",
-    filename: "6554"
+    filename: "6554",
   },
   {
     name: "Vestige of Madness",
@@ -123,7 +123,7 @@ export const mats = [
     rarity: "bronze",
     type: "mat",
     availability: "JP",
-    filename: "6555"
+    filename: "6555",
   },
   {
     name: "Seed of Yggdrasil",
@@ -132,7 +132,7 @@ export const mats = [
     rarity: "silver",
     type: "mat",
     availability: "ALL",
-    filename: "6502"
+    filename: "6502",
   },
   {
     name: "Ghost Lantern",
@@ -141,7 +141,7 @@ export const mats = [
     rarity: "silver",
     type: "mat",
     availability: "ALL",
-    filename: "6508"
+    filename: "6508",
   },
   {
     name: "Octuplet Crystal",
@@ -150,7 +150,7 @@ export const mats = [
     rarity: "silver",
     type: "mat",
     availability: "ALL",
-    filename: "6515"
+    filename: "6515",
   },
   {
     name: "Serpent Jewel",
@@ -159,7 +159,7 @@ export const mats = [
     rarity: "silver",
     type: "mat",
     availability: "ALL",
-    filename: "6509"
+    filename: "6509",
   },
   {
     name: "Phoenix Feather",
@@ -168,7 +168,7 @@ export const mats = [
     rarity: "silver",
     type: "mat",
     availability: "ALL",
-    filename: "6501"
+    filename: "6501",
   },
   {
     name: "Eternal Gear",
@@ -177,7 +177,7 @@ export const mats = [
     rarity: "silver",
     type: "mat",
     availability: "ALL",
-    filename: "6510"
+    filename: "6510",
   },
   {
     name: "Forbidden Page",
@@ -186,7 +186,7 @@ export const mats = [
     rarity: "silver",
     type: "mat",
     availability: "ALL",
-    filename: "6511"
+    filename: "6511",
   },
   {
     name: "Homunculus Baby",
@@ -195,7 +195,7 @@ export const mats = [
     rarity: "silver",
     type: "mat",
     availability: "ALL",
-    filename: "6514"
+    filename: "6514",
   },
   {
     name: "Meteor Horseshoe",
@@ -204,7 +204,7 @@ export const mats = [
     rarity: "silver",
     type: "mat",
     availability: "ALL",
-    filename: "6513"
+    filename: "6513",
   },
   {
     name: "Great Knight Medal",
@@ -213,7 +213,7 @@ export const mats = [
     rarity: "silver",
     type: "mat",
     availability: "ALL",
-    filename: "6524"
+    filename: "6524",
   },
   {
     name: "Shell of Reminiscence",
@@ -222,7 +222,7 @@ export const mats = [
     rarity: "silver",
     type: "mat",
     availability: "ALL",
-    filename: "6526"
+    filename: "6526",
   },
   {
     name: "Refined Magatama",
@@ -231,7 +231,7 @@ export const mats = [
     rarity: "silver",
     type: "mat",
     availability: "ALL",
-    filename: "6532"
+    filename: "6532",
   },
   {
     name: "Eternal Ice",
@@ -240,7 +240,7 @@ export const mats = [
     rarity: "silver",
     type: "mat",
     availability: "ALL",
-    filename: "6535"
+    filename: "6535",
   },
   {
     name: "Giant's Ring",
@@ -249,7 +249,7 @@ export const mats = [
     rarity: "silver",
     type: "mat",
     availability: "ALL",
-    filename: "6537"
+    filename: "6537",
   },
   {
     name: "Aurora Steel",
@@ -258,7 +258,7 @@ export const mats = [
     rarity: "silver",
     type: "mat",
     availability: "ALL",
-    filename: "6536"
+    filename: "6536",
   },
   {
     name: "Soundless Bell",
@@ -267,7 +267,7 @@ export const mats = [
     rarity: "silver",
     type: "mat",
     availability: "ALL",
-    filename: "6538"
+    filename: "6538",
   },
   {
     name: "Arrowhead of Malice",
@@ -276,7 +276,7 @@ export const mats = [
     rarity: "silver",
     type: "mat",
     availability: "ALL",
-    filename: "6541"
+    filename: "6541",
   },
   {
     name: "Crown of Silvery Light",
@@ -285,7 +285,7 @@ export const mats = [
     rarity: "silver",
     type: "mat",
     availability: "ALL",
-    filename: "6543"
+    filename: "6543",
   },
   {
     name: "Divine Spiritron",
@@ -294,7 +294,7 @@ export const mats = [
     rarity: "silver",
     type: "mat",
     availability: "ALL",
-    filename: "6545"
+    filename: "6545",
   },
   {
     name: "Ball of Rainbow Thread",
@@ -303,7 +303,7 @@ export const mats = [
     rarity: "silver",
     type: "mat",
     availability: "ALL",
-    filename: "6547"
+    filename: "6547",
   },
   {
     name: "Scale of Fantasy",
@@ -312,7 +312,7 @@ export const mats = [
     rarity: "silver",
     type: "mat",
     availability: "ALL",
-    filename: "6550"
+    filename: "6550",
   },
   {
     name: "Sunscale",
@@ -321,7 +321,7 @@ export const mats = [
     rarity: "silver",
     type: "mat",
     availability: "JP",
-    filename: "6553"
+    filename: "6553",
   },
   {
     name: "Ether Photon Converger",
@@ -330,7 +330,7 @@ export const mats = [
     rarity: "silver",
     type: "mat",
     availability: "JP",
-    filename: "6556"
+    filename: "6556",
   },
   {
     name: "Flower of the End",
@@ -339,7 +339,7 @@ export const mats = [
     rarity: "silver",
     type: "mat",
     availability: "JP",
-    filename: "6557"
+    filename: "6557",
   },
   {
     name: "Claw of Chaos",
@@ -348,7 +348,7 @@ export const mats = [
     rarity: "gold",
     type: "mat",
     availability: "ALL",
-    filename: "6507"
+    filename: "6507",
   },
   {
     name: "Heart of the Foreign God",
@@ -357,7 +357,7 @@ export const mats = [
     rarity: "gold",
     type: "mat",
     availability: "ALL",
-    filename: "6517"
+    filename: "6517",
   },
   {
     name: "Dragon's Reverse Scale",
@@ -366,7 +366,7 @@ export const mats = [
     rarity: "gold",
     type: "mat",
     availability: "ALL",
-    filename: "6506"
+    filename: "6506",
   },
   {
     name: "Spirit Root",
@@ -375,7 +375,7 @@ export const mats = [
     rarity: "gold",
     type: "mat",
     availability: "ALL",
-    filename: "6518"
+    filename: "6518",
   },
   {
     name: "Warhorse's Young Horn",
@@ -384,7 +384,7 @@ export const mats = [
     rarity: "gold",
     type: "mat",
     availability: "ALL",
-    filename: "6519"
+    filename: "6519",
   },
   {
     name: "Reactor Core of Dawn",
@@ -393,7 +393,7 @@ export const mats = [
     rarity: "gold",
     type: "mat",
     availability: "ALL",
-    filename: "6539"
+    filename: "6539",
   },
   {
     name: "Tsukumo Mirror",
@@ -402,7 +402,7 @@ export const mats = [
     rarity: "gold",
     type: "mat",
     availability: "ALL",
-    filename: "6540"
+    filename: "6540",
   },
   {
     name: "Egg of Truth",
@@ -411,16 +411,16 @@ export const mats = [
     rarity: "gold",
     type: "mat",
     availability: "ALL",
-    filename: "6542"
+    filename: "6542",
   },
   {
     name: "Fragment of a Twinkling Star",
-    startRange: "D242",
-    endRange: "N246",
+    startRange: "D247",
+    endRange: "N251",
     rarity: "gold",
     type: "mat",
     availability: "ALL",
-    filename: "6544"
+    filename: "6544",
   },
   {
     name: "Fruit of Eternity",
@@ -429,7 +429,7 @@ export const mats = [
     rarity: "gold",
     type: "mat",
     availability: "ALL",
-    filename: "6546"
+    filename: "6546",
   },
   {
     name: "Flaming Oni Lantern Plant",
@@ -438,7 +438,7 @@ export const mats = [
     rarity: "gold",
     type: "mat",
     availability: "ALL",
-    filename: "6548"
+    filename: "6548",
   },
   {
     name: "Flaming Oni Lantern Plant",
@@ -447,7 +447,7 @@ export const mats = [
     rarity: "gold",
     type: "mat",
     availability: "ALL",
-    filename: "6558"
+    filename: "6558",
   },
   {
     name: "Secret Gem of Saber",
@@ -456,7 +456,7 @@ export const mats = [
     rarity: "gold",
     type: "skill",
     availability: "ALL",
-    filename: "6201"
+    filename: "6201",
   },
   {
     name: "Secret Gem of Archer",
@@ -465,7 +465,7 @@ export const mats = [
     rarity: "gold",
     type: "skill",
     availability: "ALL",
-    filename: "6202"
+    filename: "6202",
   },
   {
     name: "Secret Gem of Lancer",
@@ -474,7 +474,7 @@ export const mats = [
     rarity: "gold",
     type: "skill",
     availability: "ALL",
-    filename: "6203"
+    filename: "6203",
   },
   {
     name: "Secret Gem of Rider",
@@ -483,7 +483,7 @@ export const mats = [
     rarity: "gold",
     type: "skill",
     availability: "ALL",
-    filename: "6204"
+    filename: "6204",
   },
   {
     name: "Secret Gem of Caster",
@@ -492,7 +492,7 @@ export const mats = [
     rarity: "gold",
     type: "skill",
     availability: "ALL",
-    filename: "6205"
+    filename: "6205",
   },
   {
     name: "Secret Gem of Assassin",
@@ -501,7 +501,7 @@ export const mats = [
     rarity: "gold",
     type: "skill",
     availability: "ALL",
-    filename: "6206"
+    filename: "6206",
   },
   {
     name: "Secret Gem of Berserker",
@@ -510,7 +510,7 @@ export const mats = [
     rarity: "gold",
     type: "skill",
     availability: "ALL",
-    filename: "6207"
+    filename: "6207",
   },
   {
     name: "Magic Gem of Saber",
@@ -519,7 +519,7 @@ export const mats = [
     rarity: "silver",
     type: "skill",
     availability: "ALL",
-    filename: "6101"
+    filename: "6101",
   },
   {
     name: "Magic Gem of Archer",
@@ -528,7 +528,7 @@ export const mats = [
     rarity: "silver",
     type: "skill",
     availability: "ALL",
-    filename: "6102"
+    filename: "6102",
   },
   {
     name: "Magic Gem of Lancer",
@@ -537,7 +537,7 @@ export const mats = [
     rarity: "silver",
     type: "skill",
     availability: "ALL",
-    filename: "6103"
+    filename: "6103",
   },
   {
     name: "Magic Gem of Rider",
@@ -546,7 +546,7 @@ export const mats = [
     rarity: "silver",
     type: "skill",
     availability: "ALL",
-    filename: "6104"
+    filename: "6104",
   },
   {
     name: "Magic Gem of Caster",
@@ -555,7 +555,7 @@ export const mats = [
     rarity: "silver",
     type: "skill",
     availability: "ALL",
-    filename: "6105"
+    filename: "6105",
   },
   {
     name: "Magic Gem of Assassin",
@@ -564,7 +564,7 @@ export const mats = [
     rarity: "silver",
     type: "skill",
     availability: "ALL",
-    filename: "6106"
+    filename: "6106",
   },
   {
     name: "Magic Gem of Berserker",
@@ -573,7 +573,7 @@ export const mats = [
     rarity: "silver",
     type: "skill",
     availability: "ALL",
-    filename: "6107"
+    filename: "6107",
   },
   {
     name: "Gem of Saber",
@@ -582,7 +582,7 @@ export const mats = [
     rarity: "bronze",
     type: "skill",
     availability: "ALL",
-    filename: "6001"
+    filename: "6001",
   },
   {
     name: "Gem of Archer",
@@ -591,7 +591,7 @@ export const mats = [
     rarity: "bronze",
     type: "skill",
     availability: "ALL",
-    filename: "6002"
+    filename: "6002",
   },
   {
     name: "Gem of Lancer",
@@ -600,7 +600,7 @@ export const mats = [
     rarity: "bronze",
     type: "skill",
     availability: "ALL",
-    filename: "6003"
+    filename: "6003",
   },
   {
     name: "Gem of Rider",
@@ -609,7 +609,7 @@ export const mats = [
     rarity: "bronze",
     type: "skill",
     availability: "ALL",
-    filename: "6004"
+    filename: "6004",
   },
   {
     name: "Gem of Caster",
@@ -618,7 +618,7 @@ export const mats = [
     rarity: "bronze",
     type: "skill",
     availability: "ALL",
-    filename: "6005"
+    filename: "6005",
   },
   {
     name: "Gem of Assassin",
@@ -627,7 +627,7 @@ export const mats = [
     rarity: "bronze",
     type: "skill",
     availability: "ALL",
-    filename: "6006"
+    filename: "6006",
   },
   {
     name: "Gem of Berserker",
@@ -636,7 +636,7 @@ export const mats = [
     rarity: "bronze",
     type: "skill",
     availability: "ALL",
-    filename: "6007"
+    filename: "6007",
   },
   {
     name: "Saber Monument",
@@ -645,7 +645,7 @@ export const mats = [
     rarity: "gold",
     type: "ascension",
     availability: "ALL",
-    filename: "7101"
+    filename: "7101",
   },
   {
     name: "Archer Monument",
@@ -654,7 +654,7 @@ export const mats = [
     rarity: "gold",
     type: "ascension",
     availability: "ALL",
-    filename: "7102"
+    filename: "7102",
   },
   {
     name: "Lancer Monument",
@@ -663,7 +663,7 @@ export const mats = [
     rarity: "gold",
     type: "ascension",
     availability: "ALL",
-    filename: "7103"
+    filename: "7103",
   },
   {
     name: "Rider Monument",
@@ -672,7 +672,7 @@ export const mats = [
     rarity: "gold",
     type: "ascension",
     availability: "ALL",
-    filename: "7104"
+    filename: "7104",
   },
   {
     name: "Caster Monument",
@@ -681,7 +681,7 @@ export const mats = [
     rarity: "gold",
     type: "ascension",
     availability: "ALL",
-    filename: "7105"
+    filename: "7105",
   },
   {
     name: "Assassin Monument",
@@ -690,7 +690,7 @@ export const mats = [
     rarity: "gold",
     type: "ascension",
     availability: "ALL",
-    filename: "7106"
+    filename: "7106",
   },
   {
     name: "Berserker Monument",
@@ -699,7 +699,7 @@ export const mats = [
     rarity: "gold",
     type: "ascension",
     availability: "ALL",
-    filename: "7107"
+    filename: "7107",
   },
   {
     name: "Saber Piece",
@@ -708,7 +708,7 @@ export const mats = [
     rarity: "silver",
     type: "ascension",
     availability: "ALL",
-    filename: "7001"
+    filename: "7001",
   },
   {
     name: "Archer Piece",
@@ -717,7 +717,7 @@ export const mats = [
     rarity: "silver",
     type: "ascension",
     availability: "ALL",
-    filename: "7002"
+    filename: "7002",
   },
   {
     name: "Lancer Piece",
@@ -726,7 +726,7 @@ export const mats = [
     rarity: "silver",
     type: "ascension",
     availability: "ALL",
-    filename: "7003"
+    filename: "7003",
   },
   {
     name: "Rider Piece",
@@ -735,7 +735,7 @@ export const mats = [
     rarity: "silver",
     type: "ascension",
     availability: "ALL",
-    filename: "7004"
+    filename: "7004",
   },
   {
     name: "Caster Piece",
@@ -744,7 +744,7 @@ export const mats = [
     rarity: "silver",
     type: "ascension",
     availability: "ALL",
-    filename: "7005"
+    filename: "7005",
   },
   {
     name: "Assassin Piece",
@@ -753,7 +753,7 @@ export const mats = [
     rarity: "silver",
     type: "ascension",
     availability: "ALL",
-    filename: "7006"
+    filename: "7006",
   },
   {
     name: "Berserker Piece",
@@ -762,7 +762,7 @@ export const mats = [
     rarity: "silver",
     type: "ascension",
     availability: "ALL",
-    filename: "7007"
+    filename: "7007",
   },
   {
     name: "Tearstone of Blood",
@@ -771,7 +771,7 @@ export const mats = [
     rarity: "gold",
     type: "mat",
     availability: "ALL",
-    filename: "6520"
+    filename: "6520",
   },
   {
     name: "Black Beast Grease",
@@ -780,7 +780,7 @@ export const mats = [
     rarity: "gold",
     type: "mat",
     availability: "ALL",
-    filename: "6521"
+    filename: "6521",
   },
   {
     name: "Lamp of Evil-Sealing",
@@ -789,7 +789,7 @@ export const mats = [
     rarity: "gold",
     type: "mat",
     availability: "ALL",
-    filename: "6523"
+    filename: "6523",
   },
   {
     name: "Scarab of Wisdom",
@@ -798,7 +798,7 @@ export const mats = [
     rarity: "gold",
     type: "mat",
     availability: "ALL",
-    filename: "6525"
+    filename: "6525",
   },
   {
     name: "Primordial Lanugo",
@@ -807,7 +807,7 @@ export const mats = [
     rarity: "gold",
     type: "mat",
     availability: "ALL",
-    filename: "6528"
+    filename: "6528",
   },
   {
     name: "Cursed Beast Gallstone",
@@ -816,7 +816,7 @@ export const mats = [
     rarity: "gold",
     type: "mat",
     availability: "ALL",
-    filename: "6529"
+    filename: "6529",
   },
   {
     name: "Mysterious Divine Wine",
@@ -825,6 +825,6 @@ export const mats = [
     rarity: "gold",
     type: "mat",
     availability: "ALL",
-    filename: "6531"
-  }
+    filename: "6531",
+  },
 ];
