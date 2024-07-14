@@ -446,8 +446,8 @@ export const mats = [
     endRange: "AD231",
     rarity: "gold",
     type: "mat",
-    availability: "ALL",
-    filename: "6548",
+    availability: "JP",
+    filename: "6558",
   },
   {
     name: "Secret Gem of Saber",
