@@ -95,7 +95,7 @@ export const mats = [
     endRange: "N61",
     rarity: "bronze",
     type: "mat",
-    availability: "JP",
+    availability: "ALL",
     filename: "6551",
   },
   {
@@ -104,7 +104,7 @@ export const mats = [
     endRange: "N66",
     rarity: "bronze",
     type: "mat",
-    availability: "JP",
+    availability: "ALL",
     filename: "6552",
   },
   {
