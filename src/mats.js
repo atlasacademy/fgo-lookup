@@ -462,10 +462,10 @@ export const mats = [
     name: "Universal Cube",
     startRange: "T237",
     endRange: "AD241",
-    rarity: "gold",
+    rarity: "silver",
     type: "mat",
     availability: "JP",
-    filename: "6560",
+    filename: "6559",
   },
   {
     name: "Secret Gem of Saber",
