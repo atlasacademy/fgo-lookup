@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-    basePath: "/lookup",
-    assetPrefix: "/lookup",
+    basePath: "/drop-lookup",
+    assetPrefix: "/drop-lookup",
     images: {
         remotePatterns: [
             {
